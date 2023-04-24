@@ -1,0 +1,15 @@
+D:\Quiz3\obj\Debug\net6.0\Quiz3.csproj.AssemblyReference.cache
+D:\Quiz3\obj\Debug\net6.0\Quiz3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quiz3\obj\Debug\net6.0\Quiz3.AssemblyInfoInputs.cache
+D:\Quiz3\obj\Debug\net6.0\Quiz3.AssemblyInfo.cs
+D:\Quiz3\obj\Debug\net6.0\Quiz3.csproj.CoreCompileInputs.cache
+D:\Quiz3\bin\Debug\net6.0\Quiz3.exe
+D:\Quiz3\bin\Debug\net6.0\Quiz3.deps.json
+D:\Quiz3\bin\Debug\net6.0\Quiz3.runtimeconfig.json
+D:\Quiz3\bin\Debug\net6.0\Quiz3.dll
+D:\Quiz3\bin\Debug\net6.0\Quiz3.pdb
+D:\Quiz3\obj\Debug\net6.0\Quiz3.dll
+D:\Quiz3\obj\Debug\net6.0\refint\Quiz3.dll
+D:\Quiz3\obj\Debug\net6.0\Quiz3.pdb
+D:\Quiz3\obj\Debug\net6.0\Quiz3.genruntimeconfig.cache
+D:\Quiz3\obj\Debug\net6.0\ref\Quiz3.dll

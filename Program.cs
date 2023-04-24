@@ -7,9 +7,11 @@
         
         if(search == "Show All") {
             for(int i = 0;i < 10;i++) {
-                Console.WriteLine("{0}",A[i]);
-            } if(search = B[i]) {
-                Console.WriteLine("{0}",A[i]);
+                Console.WriteLine("{0}",B[i]);
+                Console.WriteLine();
+            } if(search = A[i]) {
+                Console.WriteLine("{0}",B[i]);
+                Console.WriteLine();
             } else {
                 Console.WriteLine("End");
             }
