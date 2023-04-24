@@ -1,17 +1,14 @@
 ﻿class program {
   static void Main(string[] arg) {
-
-    string[] Type = new string[10];
-    for (int i = 0;i < 10; i++) {
-        Type[i] = Console.ReadLine();
-    }
-    Console.WriteLine(Type[1]);
-    
-    string[] Type = new string[10];
-    for (int i = 0;i < 10; i++) {
-        Type[i] = Console.ReadLine();
-    }
-    Console.WriteLine(Type[1]);
+        string[] A = UserInputType(Type);
+        string[] B = UserInputName(Name);
+        
+        string search = Console.ReadLine();
+        
+        if(search == "Show All")
+            for(int i = 0;i < 10;i++) {
+                Console.WriteLine(name[i]);
+            }
      }
 
 
@@ -20,14 +17,15 @@
     for (int i = 0;i < 10; i++) {
         Type[i] = Console.ReadLine();
     }
-        return Type;
+        return Type[10];
     }
 
-    static string UserInputType(string[] Name) {
+    static string UserInputName(string[] Name) {
         string[] Name = new string[10];
     for (int i = 0;i < 10; i++) {
         Name[i] = Console.ReadLine();
     }
-        return Name;
+        return Name[10];
     }
 }
+    
